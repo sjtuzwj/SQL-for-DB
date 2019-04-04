@@ -1,2 +1,6 @@
 # SQL-for-DB
-About DB Concepts
+
+活动2：
+1、无征兆去重
+2、定界符
+3、函数编写
